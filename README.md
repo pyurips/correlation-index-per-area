@@ -1,6 +1,6 @@
 ## Language/Linguagem
 
- - [English](https://github.com/pyurips/correlationIndexPerArea/edit/main/README.md#correlation-index-per-area)
+ - [English](https://github.com/pyurips/correlationIndexPerArea#correlation-index-per-area)
  - [Português](https://github.com/pyurips/correlationIndexPerArea/edit/main/README.md#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea)
 
 
