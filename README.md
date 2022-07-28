@@ -4,7 +4,7 @@
  - [Português](https://github.com/pyurips/correlationIndexPerArea/blob/main/README.md#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea)
 
 
-# Correlation index per area
+# Correlation index by area with constant interval differences
 
 ### What exactly is
 Like the linear correlation coefficient, the area correlation index is used to relate how closely two variables are related. However, the second is not used, like the first, as the linear coefficient of the equation of a line (regression).
@@ -100,7 +100,7 @@ $$ i = {1} $$
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# Índice de correlação por área
+# Índice de correlação por área com diferenças de intervalos constantes
 
 ### O que exatamente é
 Assim como o coeficiente de correlação linear, o índice de correlação por área é usado para relacionar o quanto duas variáveis estão relacionadas. Porém, a segunda não é utilizada, como a primeira, como o coeficiente linear da equação de uma reta (regressão).
