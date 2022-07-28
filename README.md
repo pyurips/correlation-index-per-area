@@ -1,7 +1,7 @@
 ## Language/Linguagem
 
- - [English](https://github.com/pyurips/correlationIndexPerArea#correlation-index-by-area-with-constant-interval-differences)
- - [Português](https://github.com/pyurips/correlationIndexPerArea#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea-com-diferen%C3%A7as-de-intervalos-constantes)
+ - [English](https://github.com/pyurips/correlationIndexPerArea#correlation-index-by-area-with-the-constant-values-of-the-intervals-in-the-abscissa)
+ - [Português](https://github.com/pyurips/correlationIndexPerArea#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea-com-o-valores-dos-intervalos-na-abscissa-constantes)
 
 
 # Correlation index by area with the constant values of the intervals in the abscissa
