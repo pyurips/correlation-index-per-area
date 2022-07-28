@@ -1,7 +1,7 @@
 ## Language/Linguagem
 
- - [English](https://github.com/pyurips/correlationIndexPerArea#correlation-index-per-area)
- - [Português](https://github.com/pyurips/correlationIndexPerArea/blob/main/README.md#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea)
+ - [English](https://github.com/pyurips/correlationIndexPerArea#correlation-index-by-area-with-constant-interval-differences)
+ - [Português](https://github.com/pyurips/correlationIndexPerArea#%C3%ADndice-de-correla%C3%A7%C3%A3o-por-%C3%A1rea-com-diferen%C3%A7as-de-intervalos-constantes)
 
 
 # Correlation index by area with constant interval differences
