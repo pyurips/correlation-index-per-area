@@ -105,7 +105,7 @@ ________________________________________________________________________________
 ### O que exatamente é
 Assim como o coeficiente de correlação linear, o índice de correlação por área é usado para relacionar o quanto duas variáveis estão relacionadas. Porém, a segunda não é utilizada, como a primeira, como o coeficiente linear da equação de uma reta (regressão).
 
-A expressão "por área" indica uma mudança de equação e, consequentemente, algorítmo no tratamento dos dados. São utilizados conceitos geométricos de cálculo de área, especificamente de retângulos. Portanto, o objetivo da correlação por área é disponibilizar uma alternativa simples de algorítmo para correlacionar dois elementos.
+A expressão "por área" indica uma mudança de equação e, consequentemente, algoritmo no tratamento dos dados. São utilizados conceitos geométricos de cálculo de área, especificamente de retângulos. Portanto, o objetivo da correlação por área é disponibilizar uma alternativa simples de algoritmo para correlacionar dois elementos.
 
 O índice se trata somente de um valor adimensional que varia de -1 a 1. 
 Quando for -1, trata-se de uma correlação negativa perfeita. Assim, podemos dizer que quando o valor for 1, será uma correlação positiva perfeita.
